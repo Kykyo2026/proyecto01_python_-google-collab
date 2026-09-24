@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kykyo2026/proyecto01_python_-google-collab/blob/main/proyecto1.ipynb)
+
 # 📊 Calculadora de Presupuestos en Python y Generador de PDF
 
 ## 📝 Descripción
